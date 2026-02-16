@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SI2302B-TP")(type "KiCad")(uri "${KIPRJMOD}/LIB_SI2302B-TP/SI2302B-TP")(options "")(descr ""))
+)
