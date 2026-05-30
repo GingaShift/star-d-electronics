@@ -8,8 +8,6 @@ The electronics architecture is divided into several dedicated boards responsibl
 
 # System Overview
 
-![Global Architecture](Documentation/Images/Global_Architecture.png)
-
 The STAR-D electronics system is organized around:
 
 - Power Board
@@ -37,7 +35,9 @@ Responsibilities:
 
 ## PCB
 
-![Power Board](Documentation/Images/Power_Board.png)
+<img width="506" height="544" alt="Power_Board_F" src="https://github.com/user-attachments/assets/3bb19931-7870-4751-bd9b-60637ceb65b9" />
+<img width="517" height="537" alt="Power_Board_B" src="https://github.com/user-attachments/assets/734fc25d-04d1-45fc-bb6b-e249d62143c8" />
+
 
 ## Main Components
 
@@ -65,7 +65,10 @@ Responsibilities:
 
 ## PCB
 
-![Main Board](Documentation/Images/Main_Board.png)
+<img width="553" height="372" alt="Main_Board" src="https://github.com/user-attachments/assets/f9eced76-5afc-4e95-a0da-78641fbd60ae" />
+<img width="674" height="326" alt="Main_Board_B" src="https://github.com/user-attachments/assets/e2433369-b1f6-4227-bd75-72e46f01ca62" />
+
+
 
 ## Main Components
 
@@ -87,13 +90,14 @@ Dedicated power distribution board for high-current 5V subsystems.
 
 Responsibilities:
 
-- Heater power distribution
 - CM5 power supply
-- LED power distribution
 
 ## PCB
 
-![5V Board](Documentation/Images/5V_Board.png)
+<img width="689" height="258" alt="5V_Board_F" src="https://github.com/user-attachments/assets/2e895902-662e-4e2e-a0f2-32f97982bfbf" />
+<img width="676" height="269" alt="5V_Board_B" src="https://github.com/user-attachments/assets/5922449c-3cfd-4019-a5d7-beee842c423f" />
+
+
 
 ---
 
@@ -112,7 +116,8 @@ Responsibilities:
 
 ## PCB
 
-![CM5 Board](Documentation/Images/CM5_Board.png)
+<img width="145" height="122" alt="image" src="https://github.com/user-attachments/assets/8ca04cdd-d7b6-403d-b7d4-adc886789add" />
+
 
 ## Main Components
 
@@ -135,7 +140,8 @@ Responsibilities:
 
 ## PCB
 
-![Microscope LED PCB](Documentation/Images/Microscope_LED_PCB.png)
+<img width="436" height="472" alt="M_led" src="https://github.com/user-attachments/assets/93fdad5f-bab9-434f-a5b1-119d68b2fb04" />
+
 
 ---
 
@@ -147,7 +153,9 @@ Environmental monitoring outside the Pressure Vessel.
 
 ## PCB
 
-![External BME280](Documentation/Images/BME280_External.png)
+<img width="398" height="353" alt="External_BME_F" src="https://github.com/user-attachments/assets/7a9cec90-346b-40c7-9fde-43e71c5b2e1b" />
+<img width="365" height="332" alt="External_BME_B" src="https://github.com/user-attachments/assets/03dcee8e-4531-4c65-8ecc-7f400e4eee6c" />
+
 
 ---
 
