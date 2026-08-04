@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A4988SETTR-T
+D DMOS Microstepping Driver W/Translator And Ocp
+K
+F http://www.allegromicro.com/~/media/files/datasheets/a4988-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

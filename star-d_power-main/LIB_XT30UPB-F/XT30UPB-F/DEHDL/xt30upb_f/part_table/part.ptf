@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XT30UPB_F'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amass", "XT30UPB-F" (!) = "", "XT30UPBF", "Other", "", "", "", "", "Socket; DC supply; XT30; female; PIN: 2; on PCBs; THT; Colour: yellow", "https://www.tme.eu/Document/81f11ca924696756331f21b972812074/XT30PB-F.pdf", "9.4 mm"
+END_PART
+
+END.

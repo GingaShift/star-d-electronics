@@ -1,0 +1,16 @@
+.MAX17639AFN-plus- :1 ;3V to 36V, 6A/8A/10A, 12A Peak, High-Efficiency, Synchronous Step-Down DC-DC Converter
+MAX17793AFN
+*STM IC
+*NGS
+*PLB 1="BST" 2="LX_1" 3="IN_1" 4="PGND_1" 5="PGND_2" 6="LX_2" 7="PGND_3" 8="PGND_4" 9="IN_2" 10="EN/UVLO" 11="EXTVCC" 12="FB_1" 13="RT" 14="SS" 15="MODE/SYNC" 16="'RESET'/TJ" 17="SGND" 18="INTVCC_1" 19="EP" 20="INTVCC_2" 21="PGND_5" 22="PGND_6" 23="PGND_7" 24="PGND_8" 25="FB_2"
+*MXP 25
+*DFN MAX17639AFN-plus-
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX17639AFN+)
+~!Link Datasheet (https://www.analog.com/MAX17639/datasheet)
+~!Height (0.8mm)
+~!3D_Model (MAX17639AFN+)
+MAX17639AFN-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABPDANV015PGSA3
+D Board Mount Pressure Sensors 1.04bar (15psi), Gage, DIP, 1-port, Digital SPI, 3.3v, Liquid/Gas
+K
+F https://th.mouser.com/datasheet/2/187/honeywell_sensing_basic_board_mount_pressure_abp_s-1662208.pdf
+$ENDCMP
+#
+#End Doc Library

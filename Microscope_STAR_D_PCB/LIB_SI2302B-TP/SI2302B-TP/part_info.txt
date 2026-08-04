@@ -1,0 +1,9 @@
+Manufacturer=MCC
+PartNumber=SI2302B-TP
+PartCategory=Transistor
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=4.2
+Released=2023-09-14 08:29:14
+Downloaded=2026-01-07 10:59:29
+3D=Y

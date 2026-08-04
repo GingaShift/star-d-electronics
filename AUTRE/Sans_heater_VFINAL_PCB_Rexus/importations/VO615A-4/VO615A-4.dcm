@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VO615A-4
+D Optocoupler Trans 160-320% 10mA 110C DIP Vishay VO615A-4 DC Input Phototransistor Output Optocoupler, Through Hole, 4-Pin DIP
+K
+F https://componentsearchengine.com/Datasheets/2/VO615A-4.pdf
+$ENDCMP
+#
+#End Doc Library

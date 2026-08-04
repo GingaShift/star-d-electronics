@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PA2754NL"
+   (description "Common Mode Chokes / Filters 3.75mOhms 215uH 10A SMD Toroid Choke")
+   (family "ANA")
+   (package "PA2754NL")
+   (attribute "Datasheet Link" "https://www.digikey.ph/en/products/detail/pulse-electronics/PA2754NL/3025638")
+   (attribute "Geometry.Height" "11.2mm")
+   (attribute "Mouser Part Number" "673-PA2754NL")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA2754NL?qs=%252BUGZmmosPSIl0ME75doAGQ%3D%3D")
+   (attribute "Manufacturer_Name" "Yageo Group")
+   (attribute "Manufacturer_Part_Number" "PA2754NL")
+   (gate
+    (symbol "PA2754NL")
+    (pin "PRI_1" 1 PS)
+    (pin "PRI_2" 2 PS)
+    (pin "SEC_1" 3 PS)
+    (pin "SEC_2" 4 PS)
+   )
+  )
+  (symbol "PA2754NL"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PA2754NL"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -9.525 10.55)
+      (pt 9.525 10.55)
+      (pt 9.525 -10.55)
+      (pt -9.525 -10.55)
+      (pt -9.525 10.55))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.78 12.6)
+      (pt 10.78 12.6)
+      (pt 10.78 -11.55)
+      (pt -10.78 -11.55)
+      (pt -10.78 12.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -9.5 10.55)
+      (pt 9.525 10.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 9.525 7)
+      (pt 9.525 -7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -9.525 7)
+      (pt -9.5 -7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -9.5 -10.55)
+      (pt 9.525 -10.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -8 11.5)
+      (arc (pt -8.000 11.500) (pt -8.000 11.400) (pt -7.800 11.600) (start 180.0) (sweep 180.0))
+      (pt -7.8 11.5)
+      (arc (pt -7.800 11.500) (pt -8.000 11.400) (pt -7.800 11.600) (start 180.0) (sweep .0))
+      (pt -8 11.5))))
+   (leg 1 (pt -5.970 8.510) (padstack 0))
+   (leg 2 (pt 5.970 8.510) (padstack 0))
+   (leg 3 (pt -5.970 -8.510) (padstack 0))
+   (leg 4 (pt 5.970 -8.510) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (ovalf 2.030 7.620 0 0.000))
+   )
+   (model "PA2754NL.stp"
+    (euler 90 0 0)
+    (offset -11.260000228881836 14.010000228881836 -4.849999904632568)
+   )
+  )
+ )
+)

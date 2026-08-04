@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C31,10uF 0603,C_0603_1608Metric,137.45,-82.03,-90.0,top
+C32,10uF 0603,C_0603_1608Metric,116.46,-70.81,180.0,top
+C33,100nF 0402,C_0402_1005Metric,125.82,-81.25,-90.0,top
+C34,100nF 0402,C_0402_1005Metric,124.21,-81.18,-90.0,top
+C35,470µF,CP_Elec_6.3x7.7,142.87,-73.11,0.0,top
+C_CM5_BULK1,470µF,CP_Elec_6.3x7.7,108.24,-77.85,90.0,top
+H1,MountingHole_Pad,MountingHole_3.2mm_M3_Pad,107.05,-69.08,0.0,top
+H2,MountingHole_Pad,MountingHole_3.2mm_M3_Pad,150.59,-68.99,0.0,top
+J1,Conn_01x04,Molex_Micro-Latch_53253-0470_1x04_P2.00mm_Vertical,125.84,-67.35,0.0,top
+J13,Conn_01x02_Pin,Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical,134.4775,-78.25,-90.0,top
+J15,Conn_01x02_Pin,Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical,118.0225,-78.31,-90.0,top
+TP1,TestPoint,TestPoint_Pad_D1.5mm,124.15,-73.1,0.0,bottom
+TP3,TestPoint,TestPoint_Pad_D1.5mm,150.45,-76.9,0.0,bottom

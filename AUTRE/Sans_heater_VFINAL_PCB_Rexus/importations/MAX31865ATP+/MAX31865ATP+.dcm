@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31865ATP+
+D RTD-to-Digital Converter
+K
+F https://www.analog.com/MAX31865/datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX17639AFN_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX17639AFN+" (!) = "", "MAX17793AFN", "Other", "", "", "3V to 36V, 6A/8A/10A, 12A Peak, High-Efficiency, Synchronous Step-Down DC-DC Converter", "https://www.analog.com/MAX17639/datasheet", "0.8 mm"
+END_PART
+
+END.

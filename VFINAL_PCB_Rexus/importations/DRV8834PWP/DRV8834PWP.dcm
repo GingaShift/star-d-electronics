@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8834PWP
+D DRV8834PWP, Motor Driver, 1.5A Bipolar Step Motor, DC Motor, 42.5kHz 2.5  10.8 V, 24-Pin HTSSOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100034685.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC,Quantity
+0.1uF,"C1,C2",C_0402_1005Metric,C141382,2
+BME280,U1,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,C92489,1
+Conn_01x06_Pin,J1,Molex_Micro-Latch_53253-0670_1x06_P2.00mm_Vertical,C564034,1

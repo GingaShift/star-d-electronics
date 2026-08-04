@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MAX17639AFN+") (type "KiCad") (uri "${KIPRJMOD}/LIB_MAX17639AFN+/MAX17639AFN+/KiCad") (options "") (descr ""))
+	(lib (name "PA2754NL") (type "KiCad") (uri "${KIPRJMOD}/LIB_PA2754NL/PA2754NL/KiCad") (options "") (descr ""))
+	(lib (name "SRP2313AA-101M") (type "KiCad") (uri "${KIPRJMOD}/LIB_SRP2313AA-101M/SRP2313AA-101M/KiCad") (options "") (descr ""))
+	(lib (name "XGL1010-222MED") (type "KiCad") (uri "${KIPRJMOD}/LIB_XGL1010-222MED") (options "") (descr ""))
+	(lib (name "NFM18CC221R1C3D") (type "KiCad") (uri "${KIPRJMOD}/LIB_NFM18CC221R1C3D/NFM18CC221R1C3D/KiCad") (options "") (descr ""))
+)

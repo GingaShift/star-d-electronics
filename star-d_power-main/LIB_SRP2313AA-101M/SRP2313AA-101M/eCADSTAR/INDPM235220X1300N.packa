@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRP2313AA-101M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-08-24-08:46:58)
+    (mountForm default
+        (footprintRef "INDPM235220X1300N")
+        (spec "System")
+    )
+)

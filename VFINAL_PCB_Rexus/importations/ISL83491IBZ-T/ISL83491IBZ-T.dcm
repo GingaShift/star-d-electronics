@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISL83491IBZ-T
+D These Renesas RS-485/RS-422 devices are BiCMOS 3. 3V powered, single transceivers that meet both the RS-485 and RS-422 standards for balanced communication. Unlike competitive devices, this Renesas family is specified for 10% tolerance supplies (3V to 3. 6V). The ISL83483 and ISL83488 use slew rate limited drivers which reduce EMI, and minimize reflections from improperly terminated transmission lines, or unterminated stubs in multidrop and multipoint applications. Data rates up to 10Mbps are achievable by 
+K
+F https://www.renesas.com/en-us/www/doc/datasheet/isl83483-85-88-90-91.pdf
+$ENDCMP
+#
+#End Doc Library

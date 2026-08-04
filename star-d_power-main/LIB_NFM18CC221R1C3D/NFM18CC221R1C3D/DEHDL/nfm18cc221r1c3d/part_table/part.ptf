@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NFM18CC221R1C3D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "NFM18CC221R1C3D" (!) = "", "NFM18CC101R1C3D", "Other", "", "", "Capacitor L=1.6mm W=0.8mm T=0.6mm", "https://search.murata.co.jp/Ceramy/image/img/A01X/3TERMINAL-EN.pdf", "0.7 mm"
+END_PART
+
+END.

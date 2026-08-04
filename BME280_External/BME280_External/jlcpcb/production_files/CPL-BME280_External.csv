@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0402_1005Metric,146.67,-91.62,0.0,top
+C2,0.1uF,C_0402_1005Metric,139.9,-91.62,0.0,top
+J1,Conn_01x06_Pin,Molex_Micro-Latch_53253-0670_1x06_P2.00mm_Vertical,143.63,-79.76,0.0,top
+U1,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,143.435,-87.915,0.0,top

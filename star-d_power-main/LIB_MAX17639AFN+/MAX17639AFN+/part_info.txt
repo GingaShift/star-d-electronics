@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX17639AFN+
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=25
+Version=2.2
+Released=2025-12-05 16:24:07
+Downloaded=2026-04-04 17:02:04
+3D=Y

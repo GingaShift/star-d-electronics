@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTB0143-2010BPA103
+D 10 kOhms 0.25W, 1/4W Through Hole Slide Potentiometer Top Adjustment Type
+K
+F https://www.bourns.com/docs/product-datasheets/ptb.pdf
+$ENDCMP
+#
+#End Doc Library

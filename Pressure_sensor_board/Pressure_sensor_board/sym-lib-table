@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ABPDANV015PGSA3") (type "KiCad") (uri "${KIPRJMOD}/Importations/ABP sensor/ABPDANV015PGSA3.kicad_sym") (options "") (descr ""))
+)

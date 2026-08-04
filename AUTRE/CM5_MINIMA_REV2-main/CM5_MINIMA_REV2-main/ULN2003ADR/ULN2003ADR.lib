@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ULN2003ADR
+#/8642/1983104/2.50/16/3/Integrated Circuit
+DEF ULN2003ADR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "ULN2003ADR" 850 200 50 H V L CNN
+F2 "SOIC127P600X175-16N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 850 0 50 H I L CNN
+F4 "Trans Darlington NPN 50V 0.5A SOIC16 Texas Instruments ULN2003ADR, 7-element NPN Darlington Transistor Array, 0.5 A 50 V, 16-Pin SOIC" 850 -100 50 H I L CNN "Description"
+F5 "1.75" 850 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ULN2003ADR" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-ULN2003ADR" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ULN2003ADR?qs=D5pVkbrsqqI8WxXD0eSvDA%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ULN2003ADR" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "null?region=nac" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1B 1 0 0 200 R 50 50 0 0 P
+X 2B 2 0 -100 200 R 50 50 0 0 P
+X 3B 3 0 -200 200 R 50 50 0 0 P
+X 4B 4 0 -300 200 R 50 50 0 0 P
+X 5B 5 0 -400 200 R 50 50 0 0 P
+X 6B 6 0 -500 200 R 50 50 0 0 P
+X 7B 7 0 -600 200 R 50 50 0 0 P
+X E 8 0 -700 200 R 50 50 0 0 P
+X 1C 16 1000 0 200 L 50 50 0 0 P
+X 2C 15 1000 -100 200 L 50 50 0 0 P
+X 3C 14 1000 -200 200 L 50 50 0 0 P
+X 4C 13 1000 -300 200 L 50 50 0 0 P
+X 5C 12 1000 -400 200 L 50 50 0 0 P
+X 6C 11 1000 -500 200 L 50 50 0 0 P
+X 7C 10 1000 -600 200 L 50 50 0 0 P
+X COM 9 1000 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

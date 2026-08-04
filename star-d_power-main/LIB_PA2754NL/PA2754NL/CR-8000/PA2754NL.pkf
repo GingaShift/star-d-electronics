@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PA2754NL"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PA2754NL")
+        (spec "default")
+    )
+)

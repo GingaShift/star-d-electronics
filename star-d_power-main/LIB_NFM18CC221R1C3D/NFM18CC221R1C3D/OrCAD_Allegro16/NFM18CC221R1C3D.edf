@@ -1,0 +1,114 @@
+
+(EDIF
+  (rename &NFM18CC221R1C3D "NFM18CC221R1C3D")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2026 04 23 00 54 51)
+      (dataOrigin "798279/881649/2.50/4/2/Capacitor")
+      (program "SamacSys ECAD Model NFM18CC221R1C3D"
+        (version "4.8"))))
+  (library
+  (rename &NFM18CC221R1C3D "NFM18CC221R1C3D")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &NFM18CC221R1C3D "NFM18CC221R1C3D")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "C")
+          (property (rename PACKAGENAME "PackageName") (string "NFM18CC221R1C3D"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "NFM18CC101R1C3D"))
+          (property (rename &Farnell_Part_Number "Farnell Part Number") (string ""))
+          (property (rename &Farnell_Price_Stock "Farnell Price/Stock") (string ""))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Murata Electronics"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "NFM18CC221R1C3D"))
+          (property (rename &Description "Description") (string "Capacitor L=1.6mm W=0.8mm T=0.6mm"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://search.murata.co.jp/Ceramy/image/img/A01X/3TERMINAL-EN.pdf"))
+          (property (rename &Height "Height") (string "0.7 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "NFM18CC221R1C3D"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &INPUT "INPUT")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &GND_1 "GND_1")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &OUTPUT "OUTPUT")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &GND_2 "GND_2")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &INPUT (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -500) (pt 0 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -500))))
+            )
+            (portImplementation
+              (name &GND_1 (display PINNAME))
+              (figure PIN (path (pointList (pt 500 200) (pt 500 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 200))))
+            )
+            (portImplementation
+              (name &OUTPUT (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1000 -500) (pt 1200 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 1200 -500))))
+            )
+            (portImplementation
+              (name &GND_2 (display PINNAME))
+              (figure PIN (path (pointList (pt 500 -1200) (pt 500 -1000))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 -1200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 1000 0)
+                  (pt 1000 -1000)
+                  (pt 0 -1000)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 1050 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 1050 30))))
+          )
+        )
+      )
+    )
+  )
+)

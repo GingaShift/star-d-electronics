@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=NFM18CC221R1C3D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=4
+Version=4.8
+Released=2019-04-03 10:28:03
+Downloaded=2026-04-23 00:54:51
+3D=Y

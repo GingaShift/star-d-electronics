@@ -1,0 +1,9 @@
+Manufacturer=Amass
+PartNumber=XT30UPB-F
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=3.2
+Released=2022-03-05 07:29:20
+Downloaded=2026-04-23 01:24:46
+3D=Y

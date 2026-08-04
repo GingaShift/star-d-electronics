@@ -1,0 +1,16 @@
+.PA2754NL :1 ;Common Mode Chokes / Filters 3.75mOhms 215uH 10A SMD Toroid Choke
+PA2754NL
+*STM FL
+*NGS
+*PLB 1="PRI_1" 2="PRI_2" 3="SEC_1" 4="SEC_2"
+*MXP 4
+*DFN PA2754NL
+~!Mouser Part Number (673-PA2754NL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA2754NL?qs=%252BUGZmmosPSIl0ME75doAGQ%3D%3D)
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (PA2754NL)
+~!Link Datasheet (https://www.digikey.ph/en/products/detail/pulse-electronics/PA2754NL/3025638)
+~!Height (11.2mm)
+~!3D_Model (PA2754NL)
+PA2754NL
+1.1!U 2.1!U 3.1!U 4.1!U 

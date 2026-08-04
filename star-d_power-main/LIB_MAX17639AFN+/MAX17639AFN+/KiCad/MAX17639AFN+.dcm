@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX17639AFN+
+D 3V to 36V, 6A/8A/10A, 12A Peak, High-Efficiency, Synchronous Step-Down DC-DC Converter
+K
+F https://www.analog.com/MAX17639/datasheet
+$ENDCMP
+#
+#End Doc Library

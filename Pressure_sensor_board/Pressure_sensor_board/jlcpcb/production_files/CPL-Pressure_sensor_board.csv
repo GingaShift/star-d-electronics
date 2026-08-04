@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF 0603,C_0603_1608Metric,138.75,-94.45,90.0,top
+H1,MountingHole,MountingHole_2.2mm_M2,137.07,-90.34,0.0,top
+H2,MountingHole,MountingHole_2.2mm_M2,156.77,-90.37,0.0,top
+H3,MountingHole,MountingHole_2.2mm_M2,156.7,-104.98,0.0,top
+H4,MountingHole,MountingHole_2.2mm_M2,137.07,-105.05,0.0,top
+IC1,ABPDANV015PGSA3,ABPDANV015PGSA3,146.9105,-93.5,90.0,top
+J1,Conn_01x05,Molex_Micro-Latch_53254-0570_1x05_P2.00mm_Horizontal,146.69,-100.7,180.0,top
+TP1,TestPoint,TestPoint_Pad_D1.5mm,154.76,-100.54,0.0,top
+TP2,TestPoint,TestPoint_Pad_D1.5mm,136.18,-97.31,0.0,top
+TP3,TestPoint,TestPoint_Pad_D1.5mm,157.68,-99.89,0.0,top
+TP4,TestPoint,TestPoint_Pad_D1.5mm,156.32,-96.23,0.0,top
+TP5,TestPoint,TestPoint_Pad_D1.5mm,137.9,-100.55,0.0,top

@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "54e341e0-5ffc-4e8c-be5f-677a08d53ad0")
+	(paper "A5")
+	(title_block
+		(title "CM5 MINIMA")
+		(date "2025-03-22")
+		(rev "2.1")
+		(company "Pierluigi Colangeli")
+	)
+	(lib_symbols)
+)

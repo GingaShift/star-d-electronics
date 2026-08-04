@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ULN2003ADR
+D Trans Darlington NPN 50V 0.5A SOIC16 Texas Instruments ULN2003ADR, 7-element NPN Darlington Transistor Array, 0.5 A 50 V, 16-Pin SOIC
+K
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100nF 0402,"C33,C34",C_0402_1005Metric,C307331,2
+10uF 0603,"C31,C32",C_0603_1608Metric,C96446,2
+470µF,"C35,C_CM5_BULK1",CP_Elec_6.3x7.7,C3354,2
+Conn_01x02_Pin,"J13,J15",Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical,C293740,2
+Conn_01x04,J1,Molex_Micro-Latch_53253-0470_1x04_P2.00mm_Vertical,C504808,1

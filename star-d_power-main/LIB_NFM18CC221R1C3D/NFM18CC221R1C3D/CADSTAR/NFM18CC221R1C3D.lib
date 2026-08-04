@@ -1,0 +1,16 @@
+.NFM18CC221R1C3D :1 ;Capacitor L=1.6mm W=0.8mm T=0.6mm
+NFM18CC101R1C3D
+*STM C
+*NGS
+*PLB 1="INPUT" 2="GND_1" 3="OUTPUT" 4="GND_2"
+*MXP 4
+*DFN NFM18CC221R1C3D
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (NFM18CC221R1C3D)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/A01X/3TERMINAL-EN.pdf)
+~!Height (0.7mm)
+~!3D_Model (NFM18CC221R1C3D)
+NFM18CC221R1C3D
+1.1!U 2.1!U 3.1!U 4.1!U 

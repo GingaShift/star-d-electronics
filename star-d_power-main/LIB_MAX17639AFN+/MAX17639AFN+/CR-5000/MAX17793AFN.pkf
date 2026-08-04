@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MAX17793AFN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MAX17793AFN")
+        (spec "default")
+    )
+)

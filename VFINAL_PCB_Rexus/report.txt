@@ -1,0 +1,3 @@
+Fichier placement: 'C:\Users\elfde\Desktop\STAR-D ELECTRONICS\VFINAL_PCB_Rexus\Main_PCB_STAR_D-all-pos.csv'.
+Info: Nombre de composants: 120.
+Info: Fini.

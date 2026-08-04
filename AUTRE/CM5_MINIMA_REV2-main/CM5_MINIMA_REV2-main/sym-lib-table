@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ULN2003ADR") (type "KiCad") (uri "${KIPRJMOD}/ULN2003ADR/ULN2003ADR.kicad_sym") (options "") (descr ""))
+)

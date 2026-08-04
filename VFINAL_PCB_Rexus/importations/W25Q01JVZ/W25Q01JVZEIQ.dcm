@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W25Q01JVZEIQ
+D 1Gb Serial NOR Flash 133MHz SON8
+K
+F https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q01JVZEIQ&type=datasheet
+$ENDCMP
+#
+#End Doc Library

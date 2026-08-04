@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP2313AA-101M
+D Fixed Inductors Ind,23.5x22x12.6mm 100uH20%,11A, shdSMD
+K
+F 
+$ENDCMP
+#
+#End Doc Library

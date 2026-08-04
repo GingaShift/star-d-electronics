@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NFM18CC221R1C3D
+D Capacitor L=1.6mm W=0.8mm T=0.6mm
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/3TERMINAL-EN.pdf
+$ENDCMP
+#
+#End Doc Library

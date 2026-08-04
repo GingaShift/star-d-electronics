@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AL5801W6-7") (type "KiCad") (uri "${KIPRJMOD}/Importations/AL5801W6-7/KiCad/AL5801W6-7.kicad_sym") (options "") (descr ""))
+	(lib (name "LV_CRBP_01-KXLY-AD-Q525-350-R1") (type "KiCad") (uri "${KIPRJMOD}/Importations/LV_CRBP.01-KXLY-AD-Q525-350-R18/KiCad/LV_CRBP_01-KXLY-AD-Q525-350-R1.kicad_sym") (options "") (descr ""))
+)

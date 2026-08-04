@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.1*%
+%TF.CreationDate,2026-08-01T20:51:21+02:00*%
+%TF.ProjectId,Pressure_sensor_board,50726573-7375-4726-955f-73656e736f72,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.1) date 2026-08-01 20:51:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X134410000Y-87735000D02*
+X159410000Y-87735000D01*
+X159410000Y-107735000D01*
+X134410000Y-107735000D01*
+X134410000Y-87735000D01*
+M02*

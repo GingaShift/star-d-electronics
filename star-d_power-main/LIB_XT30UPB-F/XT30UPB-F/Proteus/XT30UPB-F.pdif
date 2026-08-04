@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "XT30UPB-F"
+   (description "Socket; DC supply; XT30; female; PIN: 2; on PCBs; THT; Colour: yellow")
+   (family "CON")
+   (package "XT30UPBF")
+   (attribute "Datasheet Link" "https://www.tme.eu/Document/81f11ca924696756331f21b972812074/XT30PB-F.pdf")
+   (attribute "Geometry.Height" "9.4mm")
+   (attribute "Manufacturer_Name" "Amass")
+   (attribute "Manufacturer_Part_Number" "XT30UPB-F")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "XT30UPB-F")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "XT30UPB-F"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "XT30UPBF"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.6 7.6)
+      (pt 2.6 7.6)
+      (pt 2.6 -2.6)
+      (pt -2.6 -2.6)
+      (pt -2.6 7.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.6 7.6)
+      (pt 2.6 7.6)
+      (pt 2.6 -2.6)
+      (pt -2.6 -2.6)
+      (pt -2.6 7.6))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.6 8.6)
+      (pt 3.6 8.6)
+      (pt 3.6 -3.6)
+      (pt -3.6 -3.6)
+      (pt -3.6 8.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.2 0)
+      (arc (pt 3.200 0.000) (pt 3.100 -0.050) (pt 3.200 0.050) (start 180.0) (sweep .0))
+      (pt 3.1 0)
+      (arc (pt 3.100 0.000) (pt 3.100 -0.050) (pt 3.200 0.050) (start 180.0) (sweep -180.0))
+      (pt 3.2 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 5.000) (padstack 2))
+   (padstack 0
+    (hole 1.8)
+    (plated true)
+    (pad (layer TCOP) (square 2.700))
+    (pad (layer INNER) (round 2.700))
+    (pad (layer BCOP) (square 2.700))
+   )
+   (padstack 2
+    (hole 1.8)
+    (plated true)
+    (pad (layer TCOP) (round 2.700))
+    (pad (layer INNER) (round 2.700))
+    (pad (layer BCOP) (round 2.700))
+   )
+   (model "XT30UPB-F.stp"
+    (euler 0 0 90)
+    (offset 0 2.5 3.4100000858306885)
+   )
+  )
+ )
+)

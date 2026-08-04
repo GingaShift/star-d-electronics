@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PA2754NL
+D Common Mode Chokes / Filters 3.75mOhms 215uH 10A SMD Toroid Choke
+K
+F https://www.digikey.ph/en/products/detail/pulse-electronics/PA2754NL/3025638
+$ENDCMP
+#
+#End Doc Library

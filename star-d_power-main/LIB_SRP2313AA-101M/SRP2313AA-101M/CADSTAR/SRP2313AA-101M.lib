@@ -1,0 +1,16 @@
+.SRP2313AA-101M :1 ;Fixed Inductors Ind,23.5x22x12.6mm 100uH20%,11A, shdSMD
+INDPM235220X1300N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRP2313AA-101M
+~!Mouser Part Number (652-SRP2313AA-101M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRP2313AA-101M?qs=gZXFycFWdANfITbqx%252BPtOw%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRP2313AA-101M)
+~!Link Datasheet (-)
+~!Height (13mm)
+~!3D_Model (SRP2313AA-101M)
+SRP2313AA-101M
+1.1!U 2.1!U 

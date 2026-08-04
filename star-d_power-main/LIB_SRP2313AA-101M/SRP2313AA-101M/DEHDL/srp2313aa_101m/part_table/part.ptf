@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRP2313AA_101M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRP2313AA-101M" (!) = "", "INDPM235220X1300N", "Inductors Precision Moulded", "652-SRP2313AA-101M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRP2313AA-101M?qs=gZXFycFWdANfITbqx%252BPtOw%3D%3D", "Fixed Inductors Ind,23.5x22x12.6mm 100uH20%,11A, shdSMD", "", "13 mm"
+END_PART
+
+END.

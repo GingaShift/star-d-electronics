@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PA2754NL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "PA2754NL" (!) = "", "PA2754NL", "Other", "673-PA2754NL", "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA2754NL?qs=%252BUGZmmosPSIl0ME75doAGQ%3D%3D", "Common Mode Chokes / Filters 3.75mOhms 215uH 10A SMD Toroid Choke", "https://www.digikey.ph/en/products/detail/pulse-electronics/PA2754NL/3025638", "11.2 mm"
+END_PART
+
+END.
