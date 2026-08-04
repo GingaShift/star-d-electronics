@@ -1,0 +1,19 @@
+# Historique et sauvegardes locales
+.history/
+**/.history/
+.history_trim/
+**/.history_trim/
+
+# Réglages locaux KiCad
+*.kicad_prl
+
+# Verrous et fichiers temporaires
+*.lck
+~*.*
+_autosave-*
+*.bak
+*.tmp
+
+# Sauvegardes automatiques KiCad
+*-backups/
+**/*-backups/
