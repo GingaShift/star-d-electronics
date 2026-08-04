@@ -2694,7 +2694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" ""
 			(at 161.29 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2771,7 +2771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" ""
 			(at 161.29 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -2850,7 +2850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 49.022 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -2932,7 +2932,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "led:LVCRBP01KXLYADQ525350R18"
+		(property "Footprint" "LVCRBP01KXLYADQ525350R18"
 			(at 96.52 186.36 0)
 			(hide yes)
 			(show_name no)
@@ -3102,7 +3102,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 54.3052 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -3230,82 +3230,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 130.81 21.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "51f69d1f-cdd1-48b7-b5a9-49df91564aeb")
-		(property "Reference" "H3"
-			(at 133.35 20.3199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 133.35 22.8599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 130.81 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 130.81 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "Fluo-Led"
-				(path "/eca5daca-83f5-4672-9cba-b822572e7f7b"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 74.93 149.86 0)
 		(unit 1)
@@ -3418,7 +3342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0312_1x03-1MP_P3.00mm_Horizontal"
+		(property "Footprint" ""
 			(at 115.57 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -3660,7 +3584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 117.602 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -3740,7 +3664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" ""
 			(at 66.04 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -3817,7 +3741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" ""
 			(at 161.29 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3895,7 +3819,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 39.0652 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -3977,7 +3901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" ""
 			(at 157.48 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4053,7 +3977,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 151.892 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -4135,7 +4059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" ""
 			(at 157.48 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -4532,7 +4456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AL5801W6-7:SOT95P285X140-6N"
+		(property "Footprint" "SOT95P285X140-6N"
 			(at 113.03 223.19 0)
 			(hide yes)
 			(show_name no)
@@ -4679,82 +4603,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 130.81 33.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da2be609-1182-4fe6-b8aa-59d191c9912a")
-		(property "Reference" "H4"
-			(at 133.35 31.7499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 133.35 34.2899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 130.81 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 130.81 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "Fluo-Led"
-				(path "/eca5daca-83f5-4672-9cba-b822572e7f7b"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 102.87 114.3 270)
 		(mirror x)
@@ -4788,7 +4636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" ""
 			(at 99.06 113.3348 0)
 			(hide yes)
 			(show_name no)
